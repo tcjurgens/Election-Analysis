@@ -42,9 +42,12 @@ Above you can also see that we initialize candidate and county options/votes as 
 <img width="342" alt="Screen Shot 2021-07-18 at 11 02 24 AM" src="https://user-images.githubusercontent.com/86446641/126072131-5913b403-98cb-4c13-b4d2-59071ff9993a.png">
 
 these if statements exist within a for-loop which reads each row of the data for all candidates and counties present (and summing total votes cast).
+
 <img width="449" alt="Screen Shot 2021-07-18 at 11 10 37 AM" src="https://user-images.githubusercontent.com/86446641/126072378-1acbbdd1-eb6a-4d69-9cdf-80896d01933c.png">
 
 Other pertinent portions of the code are for-loops of similar structure which count and print votes and vote percentages for each candidata/county present in the data file 
+
 <img width="648" alt="Screen Shot 2021-07-18 at 11 12 40 AM" src="https://user-images.githubusercontent.com/86446641/126072422-abd36484-24d6-4edd-86b1-62a7835f0160.png">
+
 <img width="684" alt="Screen Shot 2021-07-18 at 11 12 55 AM" src="https://user-images.githubusercontent.com/86446641/126072427-53c1c6e5-f048-49cf-bb74-c7dc1b2748d8.png">
 
