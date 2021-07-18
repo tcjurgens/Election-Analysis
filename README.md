@@ -45,9 +45,9 @@ these if statements exist within a for-loop which reads each row of the data for
 
 <img width="449" alt="Screen Shot 2021-07-18 at 11 10 37 AM" src="https://user-images.githubusercontent.com/86446641/126072378-1acbbdd1-eb6a-4d69-9cdf-80896d01933c.png">
 
-Other pertinent portions of the code are for-loops of similar structure which count and print votes and vote percentages for each candidata/county present in the data file 
+Other pertinent portions of the code are for-loops of similar structure which count and print votes and vote percentages for each candidata/county present in the data file. The snippit of code pertaining to the candidate results is shown and commented on below for your convenience.
 
 <img width="648" alt="Screen Shot 2021-07-18 at 11 12 40 AM" src="https://user-images.githubusercontent.com/86446641/126072422-abd36484-24d6-4edd-86b1-62a7835f0160.png">
 
-<img width="684" alt="Screen Shot 2021-07-18 at 11 12 55 AM" src="https://user-images.githubusercontent.com/86446641/126072427-53c1c6e5-f048-49cf-bb74-c7dc1b2748d8.png">
+Thanks! Hope that this audit has been sufficient and analysis thorough.
 
