@@ -35,8 +35,16 @@ it is shown that:
 It is important to point out that this script may be run for any similar election given we have a csv file of the same format. 
 <img width="505" alt="Screen Shot 2021-07-18 at 11 04 45 AM" src="https://user-images.githubusercontent.com/86446641/126072193-ccfae08c-59d2-4d39-8972-f3f8a5af0ef2.png">
 
-the first step in using this script for another election would be using a new csv file in the file_to_load shown above. 
+the first step in using this script for another election would be to import a new csv file in the file_to_load shown above. 
 
-above you can also see that we initialize candidate and county options/votes as empty lists and dictionaries. This is necessary so that we may easily add to these later in the script. If there were 6 candidates and 4 counties (or any arbitrary numbers) the lists/dictionaries would be appended correctly using the code snippit shown below. 
+Above you can also see that we initialize candidate and county options/votes as empty lists and dictionaries. This is necessary so that we may easily add to these later in the script. If there were 6 candidates and 4 counties (or any arbitrary numbers) the lists/dictionaries would be appended correctly using the code snippit shown below. 
 
 <img width="342" alt="Screen Shot 2021-07-18 at 11 02 24 AM" src="https://user-images.githubusercontent.com/86446641/126072131-5913b403-98cb-4c13-b4d2-59071ff9993a.png">
+
+these if statements exist within a for-loop which reads each row of the data for all candidates and counties present (and summing total votes cast).
+<img width="449" alt="Screen Shot 2021-07-18 at 11 10 37 AM" src="https://user-images.githubusercontent.com/86446641/126072378-1acbbdd1-eb6a-4d69-9cdf-80896d01933c.png">
+
+Other pertinent portions of the code are for-loops of similar structure which count and print votes and vote percentages for each candidata/county present in the data file 
+<img width="648" alt="Screen Shot 2021-07-18 at 11 12 40 AM" src="https://user-images.githubusercontent.com/86446641/126072422-abd36484-24d6-4edd-86b1-62a7835f0160.png">
+<img width="684" alt="Screen Shot 2021-07-18 at 11 12 55 AM" src="https://user-images.githubusercontent.com/86446641/126072427-53c1c6e5-f048-49cf-bb74-c7dc1b2748d8.png">
+
