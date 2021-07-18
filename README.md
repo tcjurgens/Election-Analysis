@@ -33,9 +33,10 @@ it is shown that:
 ## Election Audit Summary
 
 It is important to point out that this script may be run for any similar election given we have a csv file of the same format. 
-![Uploading Screen Shot 2021-07-18 at 10.58.51 AM.png…]()
+<img width="505" alt="Screen Shot 2021-07-18 at 11 04 45 AM" src="https://user-images.githubusercontent.com/86446641/126072193-ccfae08c-59d2-4d39-8972-f3f8a5af0ef2.png">
 
 the first step in using this script for another election would be using a new csv file in the file_to_load shown above. 
 
 above you can also see that we initialize candidate and county options/votes as empty lists and dictionaries. This is necessary so that we may easily add to these later in the script. If there were 6 candidates and 4 counties (or any arbitrary numbers) the lists/dictionaries would be appended correctly using the code snippit shown below. 
+
 <img width="342" alt="Screen Shot 2021-07-18 at 11 02 24 AM" src="https://user-images.githubusercontent.com/86446641/126072131-5913b403-98cb-4c13-b4d2-59071ff9993a.png">
