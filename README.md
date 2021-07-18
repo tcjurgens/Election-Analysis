@@ -22,6 +22,13 @@ Below is a screenshot of the election results printed to the terminal. Total vot
 
 <img width="418" alt="Screen Shot 2021-07-18 at 10 48 45 AM" src="https://user-images.githubusercontent.com/86446641/126071721-29f9d8fc-f34c-4b6f-b5e1-9ff9c5408542.png">
 
+it is shown that:
+- total votes cast =369,711
+- 3 different candidates received votes
+- number and percentage of votes cast to each candidate is shown next to their names
+- winner of the election based on popular vote is Diana DeGette
+- voter turnout for each county is shown in parenthesis to the right of percentage of votes from each county
+- And Lastly,  the county with the highest voter turnout is Denver County (82.78% of total votes, 306,055 votes)
 
 ## Election Audit Summary
 
